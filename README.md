@@ -1,15 +1,13 @@
 # FedexLabelService
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/label_service`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem interfaces with the FedEx Label Services API.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'label_service'
+gem 'fedex_label_service'
 ```
 
 And then execute:
@@ -18,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install label_service
+    $ gem install fedex_label_service
 
 ## Usage
 
